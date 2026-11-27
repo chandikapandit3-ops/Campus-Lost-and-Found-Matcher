@@ -1,0 +1,7 @@
+id,type,name,category,color,location,date,status
+L001,L,black backpack,bag,black,library,2026-09-28,open
+L002,L,iphone 13,phone,blue,canteen,2026-09-27,open
+L003,L,physics book,book,white,classroom,2026-09-25,open
+F001,F,black backpack,bag,black,library,2026-09-29,open
+F002,F,phone charger,phone,white,canteen,2026-09-27,open
+F003,F,water bottle,bottle,green,ground,2026-09-26,open
